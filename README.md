@@ -1,3 +1,6 @@
+Programa para optimizar el pc echo por mi si lo quieres ejecutar solo ve a 
+la carpeta de debug y ejecuta el ejecutable el programa ace que tu pc balla
+mas rapido de lo normal.
 ![Captura de pantalla (41)](https://github.com/user-attachments/assets/fbff9ded-01e1-4888-9d25-362f27862732)
 ![Captura de pantalla (40)](https://github.com/user-attachments/assets/f3c7865f-d36d-43a2-8576-970a6c993109)
 ![Captura de pantalla (39)](https://github.com/user-attachments/assets/af2a022c-2452-40fc-b14e-66a93124b711)
